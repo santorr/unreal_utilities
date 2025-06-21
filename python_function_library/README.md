@@ -1,1 +1,1 @@
-![Texte alternatif](Capture.JPG)
+![Img](resources/resource_0.JPG)

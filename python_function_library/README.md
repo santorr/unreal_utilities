@@ -19,4 +19,4 @@ This message simply means that Unreal automatically reconnected your Python func
 If your nodes are broken when the engine starts, it means Unreal didn't initialize your module in time.
 It's important to load your function library module from an `init_unreal.py` file, which will be executed automatically at engine startup.
 
-[Startup file documentation]([https://example.com](https://dev.epicgames.com/documentation/en-us/unreal-engine/scripting-the-unreal-editor-using-python?application_version=5.3#pythonenvironmentandpathsintheunrealeditor))
+[Startup file documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/scripting-the-unreal-editor-using-python?application_version=5.3#pythonenvironmentandpathsintheunrealeditor)
